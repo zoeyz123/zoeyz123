@@ -1,10 +1,9 @@
 
-Hi there 👋 I'm Zoey, a rising junior at Western University studying computer science 
+Hi there, I'm Zoey! 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 💼 I'm looking to explore opportunities in product management and frontend development 
-- 👯 I’m looking to collaborate on ...
-- 📫 How to reach me: ...
+- 🌱 I’m currently learning more about backend development and product design  
+- 💼 I'm interested in exploring product management and software engineering opportunities
+- 💻 I'm always on the lookout to collaborate on new tech projects 
+- 📫 Send me a message at linkedin.com/in/zoey-zheng/ to get in touch 
 
 
