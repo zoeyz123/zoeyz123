@@ -1,5 +1,5 @@
 
-Hi there, I'm Zoey! 
+##Hi there, I'm Zoey! 
 
 - 🌱 I’m currently learning more about backend development and product design  
 - 💼 I'm interested in exploring product management and software engineering opportunities
